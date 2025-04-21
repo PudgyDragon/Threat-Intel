@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>TA416, RedDelta, BRONZE PRESIDENT</td>
+    <td>TA416, RedDelta, Stately Taurus, Bronze President, Luminous Moth, Earth Preta, Camaro Dragon</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -32,6 +32,13 @@
   <tbody>
     <tr>
       <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.darkreading.com/cloud-security/chinese-apt-mustang-panda-4-attack-tools">Dark Reading</a>
+      </td>
+      <td>Chinese APT Mustang Panda Debuts 4 New Attack Tools</td>
+      <td>April 18, 2025</td>
     </tr>
     <tr>
       <td>
@@ -80,6 +87,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack">Dark Reading</a>
+      </td>
+      <td>Microsoft VS Code Undermined in Asian Spy Attack</td>
+      <td>September 12, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.trendmicro.com/en_us/research/24/i/earth-preta-new-malware-and-strategies.html">Trend Micro</a>
       </td>
       <td>Earth Preta Evolves its Attacks with New Malware and Strategies</td>
@@ -93,7 +107,14 @@
       <td>August, 2024</td>
     </tr>
     <tr>
-      <td colspan="100" algin="center">2023</td>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.darkreading.com/cyberattacks-data-breaches/amid-military-buildup-china-deploys-mustang-panda-in-the-philippines">Dark Reading</a>
+      </td>
+      <td>Amid Military Buildup, China Deploys Mustang Panda in the Philippines</td>
+      <td>November 20, 2023</td>
     </tr>
     <tr>
       <td>
