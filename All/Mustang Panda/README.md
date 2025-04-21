@@ -20,18 +20,6 @@
   </tr>
 </table>
 
-# Information
-<table>
-  <tr>
-    <td>
-      <a href="https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets">BlackBerry Blog</a>
-    </td>
-    <td>
-      <p>Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets</p>
-    </td>
-  </tr>
-</table>
-
 <h2>Articles</h2>
 <table>
   <thead>
@@ -133,7 +121,16 @@
   <thead>
     <tr>
       <th>
-        <a href=""></a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.md5">MD5</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/IPv4.txt">IPv4</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/uri.txt">URI</a>
       </th>
     </tr>
   </thead>
