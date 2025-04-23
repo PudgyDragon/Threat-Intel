@@ -36,6 +36,34 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.scworld.com/brief/attacks-with-bluekeep-microsoft-office-exploits-launched-by-kimsuky-linked-group">SC Media</a>
+      </td>
+      <td>Attacks with BlueKeep, Microsoft Office exploits launched by Kimsuky-linked group</td>
+      <td>April 22, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html">The Hacker News</a>
+      </td>
+      <td>Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan</td>
+      <td>April 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/brief/clickfix-increasingly-utilized-in-state-backed-malware-attacks">SC Media</a>
+      </td>
+      <td>ClickFix increasingly utilized in state-backed malware attacks</td>
+      <td>April 18, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://asec.ahnlab.com/en/87554/">ASEC</a>
+      </td>
+      <td>APT Group Profiles – Larva-24005</td>
+      <td>April 14, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://izoologic.com/hacking/kimsukys-new-campaign-uses-rdp-wrapper-for-remote-access/">iZOOlogic</a>
       </td>
       <td>Kimsuky’s new campaign uses RDP Wrapper for remote access</td>
@@ -60,6 +88,13 @@
         <a href="https://www.cyfirma.com/research/apt-profile-apt43/">Cyfirma</a>
       </td>
       <td>APT PROFILE – APT43</td>
+      <td>February 12, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2025/02/north-korean-hackers-exploit-powershell.html">The Hacker News</a>
+      </td>
+      <td>North Korean Hackers Exploit PowerShell Trick to Hijack Devices in New Cyberattack</td>
       <td>February 12, 2025</td>
     </tr>
     <tr>
