@@ -41,6 +41,37 @@
       <td>November 12, 2024</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2023/05/dragon-breath-apt-group-using-double.html">The Hacker News</a>
+      </td>
+      <td>Dragon Breath APT Group Using Double-Clean-App Technique to Target Gambling Industry</td>
+      <td>May 6, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/brief/double-dll-sideloading-performed-by-apt-operation">SC Media</a>
+      </td>
+      <td>Double DLL sideloading performed by APT operation</td>
+      <td>May 4, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bleepingcomputer.com/news/security/hackers-start-using-double-dll-sideloading-to-evade-detection/">BleepingComputer</a>
+      </td>
+      <td>Hackers start using double DLL sideloading to evade detection</td>
+      <td>May 3, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://news.sophos.com/en-us/2023/05/03/doubled-dll-sideloading-dragon-breath/">Sophos</a>
+      </td>
+      <td>A doubled “Dragon Breath” adds new air to DLL sideloading attacks</td>
+      <td>May 3, 2023</td>
+    </tr>
+    <tr>
       <td colspan="100" align="center">2022</td>
     </tr>
     <tr>
@@ -49,6 +80,16 @@
       </td>
       <td>Operation Dragon Breath (APT-Q-27): Dimensionality reduction attack on the gaming industry</td>
       <td>May 16, 2022</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://mp.weixin.qq.com/s/b-0Gv_l-nnks-RnSdXBFBw">Qi'anxin Threat Intelligence Center</a>
+      </td>
+      <td>GoldenEye Dog organizes watering hole activity: targeted attacks on Telegram users</td>
+      <td>November 8, 2020</td>
     </tr>
   </tbody>
 </table>
