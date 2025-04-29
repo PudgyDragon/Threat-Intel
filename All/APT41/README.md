@@ -31,6 +31,23 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://hunt.io/blog/keyplug-server-exposes-fortinet-exploits-webshells">Hunt.io</a>
+      </td>
+      <td>KeyPlug-Linked Server Briefly Exposes Fortinet Exploits, Webshells, and Recon Activity Targeting a Major Japanese Company</td>
+      <td>April 17, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://hunt.io/blog/keyplug-infrastructure-tls-certificates-ghostwolf-activity">Hunt.io</a>
+      </td>
+      <td>Mapping Suspected KEYPLUG Infrastructure: TLS Certificates, GhostWolf, and RedGolf/APT41 Activity</td>
+      <td>January 23, 2025</td>
+    </tr>
+    <tr>
       <td colspan="100" align="center">2024</td>
     </tr>
     <tr>
@@ -39,6 +56,23 @@
       </td>
       <td>Chinese Nation-State Hackers APT41 Attack Gambling Sector for Financial Gain</td>
       <td>October 22, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://yoroi.company/research/uncovering-an-undetected-keyplug-implant-attacking-industries-in-italy/">YOROI</a>
+      </td>
+      <td>Uncovering an undetected KeyPlug implant attacking industries in Italy</td>
+      <td>May 21, 2024</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://go.recordedfuture.com/hubfs/reports/cta-2023-0330.pdf">Recorded Future</a>
+      </td>
+      <td>With KEYPLUG, China’s RedGolf Spies On, Steals From Wide Field of Targets</td>
+      <td>March 30, 2023</td>
     </tr>
   </tbody>
 </table>
