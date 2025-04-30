@@ -283,22 +283,22 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/samples.md5">MD5</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/samples.md5">MD5</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/samples.sha1">SHA1</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/samples.sha1">SHA1</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/samples.sha256">SHA256</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/IPs.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/IPs.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/url.txt">URL</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lazarus%20Group/emails.txt">Emails</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lazarus%20Group/emails.txt">Emails</a>
       </th>
     </tr>
   </thead>
