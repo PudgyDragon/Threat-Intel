@@ -105,7 +105,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Gh0stRAT/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Gh0stRAT/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Gh0stRAT/url.txt">URL</a>
       </th>
     </tr>
   </thead>
