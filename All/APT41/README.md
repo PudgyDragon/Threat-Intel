@@ -86,6 +86,9 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.md5">MD5</a>
       </th>
       <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.sha1">SHA1</a>
+      </th>
+      <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.sha256">SHA256</a>
       </th>
       <th>
