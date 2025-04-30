@@ -34,6 +34,9 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2019</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.cisa.gov/news-events/analysis-reports/ar18-352a">CISA</a>
       </td>
@@ -48,19 +51,19 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/QuasarRAT/samples.md5">MD5</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/QuasarRAT/samples.md5">MD5</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/QuasarRAT/samples.sha1">SHA1</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/QuasarRAT/samples.sha1">SHA1</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/QuasarRAT/samples.sha256">SHA256</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/QuasarRAT/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/QuasarRAT/IPs.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/QuasarRAT/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/QuasarRAT/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/QuasarRAT/url.txt">URL</a>
       </th>
     </tr>
   </thead>
