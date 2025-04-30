@@ -107,7 +107,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Formbook/samples.sha384">SHA384</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Formbook/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Formbook/url.txt">URL</a>
       </th>
     </tr>
   </thead>
