@@ -49,10 +49,23 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://attack.mitre.org/software/S0331/">MITRE</a>
+      </td>
+      <td>Agent Tesla</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html">TheHackerNews</a>
       </td>
       <td>PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks</td>
       <td>January 28, 2025</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2024</td>
     </tr>
     <tr>
       <td>
@@ -90,18 +103,17 @@
       <td>March 26, 2024</td>
     </tr>
     <tr>
-      <td>
-        <a href="https://attack.mitre.org/software/S0331/">MITRE</a>
-      </td>
-      <td>Agent Tesla</td>
-      <td>September 11, 2023</td>
+      <td colspan="100" align="center">2023</td>
     </tr>
-    <tr>
+        <tr>
       <td>
         <a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/agent-teslas-unique-approach-vbs-and-steganography-for-delivery-and-intrusion/">McAfee Labs</a>
       </td>
       <td>Agent Tesla’s Unique Approach: VBS and Steganography for Delivery and Intrusion</td>
       <td>September 8, 2023</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2022</td>
     </tr>
     <tr>
       <td>
