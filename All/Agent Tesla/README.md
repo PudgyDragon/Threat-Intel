@@ -140,7 +140,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/IPv4.txt">IPV4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/url.txt">URL</a>
       </th>
     </tr>
   </thead>
