@@ -42,3 +42,5 @@ http://178.20.41.29:10101/msf.apk
 http://164.92.154.140/pc.exe
 http://164.92.154.140/shellcode.exe
 http://18.167.165.91/setup.exe
+http://182.92.113.13:8000/svchost.exe
+http://68.183.17.155/msf.exe
