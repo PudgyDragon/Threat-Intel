@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td></td>
+    <td>Uteus</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
-    <td></td>
+    <td>Research and Education, Charities, NGOs, Government</td>
   </tr>
   <tr>
     <td>Associated Malware</td>
@@ -90,5 +90,26 @@
 
 
 <h2>Indicators</h2>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/UNC5174/samples.md5">MD5</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/UNC5174/samples.sha1">SHA1</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/UNC5174/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/UNC5174/IPv4.txt">IPv4</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/UNC5174/url.txt">URL</a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 <h2>Discovery</h2>
