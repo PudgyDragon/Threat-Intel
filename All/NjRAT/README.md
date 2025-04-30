@@ -67,7 +67,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/NjRAT/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/NjRAT/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/NjRAT/url.txt">URL</a>
       </th>
     </tr>
   </thead>
