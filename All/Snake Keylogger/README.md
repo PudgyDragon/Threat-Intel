@@ -55,6 +55,9 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://sentrybay.com/404-keylogger-and-the-need-for-proactive-endpoint-security/">SentryBay</a>
       </td>
@@ -67,6 +70,9 @@
       </td>
       <td>FortiSandbox 5.0 Detects Evolving Snake Keylogger Variant</td>
       <td>February 18, 2025</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2024</td>
     </tr>
     <tr>
       <td>
@@ -107,7 +113,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Snake%20Keylogger/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Snake%20Keylogger/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Snake%20Keylogger/url.txt">URL</a>
       </th>
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Snake%20Keylogger/email.txt">Email</a>
