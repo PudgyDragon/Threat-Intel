@@ -83,25 +83,25 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/samples.md5">MD5</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/samples.md5">MD5</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/samples.sha1">SHA1</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/samples.sha1">SHA1</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/samples.sha256">SHA256</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/samples.sha384">SHA384</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/samples.sha384">SHA384</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/IPv4.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/url.txt">URL</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/RemcosRAT/emails.txt">Emails</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/RemcosRAT/emails.txt">Emails</a>
       </th>
     </tr>
   </thead>
