@@ -92,6 +92,12 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.sha256">SHA256</a>
       </th>
       <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.tlsh">TLSH</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/samples.ssdeep">SSDEEP</a>
+      </th>
+      <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/IPv4.txt">IPv4</a>
       </th>
       <th>
