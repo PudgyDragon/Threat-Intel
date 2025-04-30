@@ -116,7 +116,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lokibot/IPs.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lokibot/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lokibot/url.txt">URL</a>
       </th>
     </tr>
   </thead>
