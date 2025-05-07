@@ -336,10 +336,10 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel//blob/main/All/EarthEstries/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel//blob/main/All/EarthEstries/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/EarthEstries/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/EarthEstries/IPv4.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel//blob/main/All/EarthEstries/url.txt">URI</a>
       </th>
     </tr>
   </thead>
