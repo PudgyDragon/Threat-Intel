@@ -316,7 +316,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT28/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT28/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT28/url.txt">URI</a>
       </th>
     </tr>
   </thead>
