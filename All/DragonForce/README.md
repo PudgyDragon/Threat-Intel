@@ -70,6 +70,20 @@
     </tr>
     <tr>
       <td>
+        <a href="https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html">The Hacker News</a>
+      </td>
+      <td>RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control</td>
+      <td>April 30, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.secureworks.com/blog/ransomware-groups-evolve-affiliate-models">Secureworks</a>
+      </td>
+      <td>Ransomware Groups Evolve Affiliate Models</td>
+      <td>April 23, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.resecurity.com/blog/article/dragonforce-ransomware-reverse-engineering-report">Resecurity</a>
       </td>
       <td>DragonForce Ransomware - Reverse Engineering Report</td>
