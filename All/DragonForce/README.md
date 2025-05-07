@@ -1,4 +1,4 @@
-# DragonForce Ransomware
+# DragonForce
 
 ## Articles
 <table>
@@ -39,9 +39,9 @@
 
 
 ## Indicators
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DragonForce%20Ransomware/samples.md5">MD5</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DragonForce%20Ransomware/samples.sha256">SHA256</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DragonForce%20Ransomware/IPv4.txt">IPv4</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DragonForce%20Ransomware/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce%20Ransomware/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce%20Ransomware/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce%20Ransomware/IPv4.txt">IPv4</a>
+- <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce%20Ransomware/uri.txt">URI</a>
 
 ## Discovery
