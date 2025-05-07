@@ -213,6 +213,15 @@
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT10/samples.md5">MD5</a>
       </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT10/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT10/IPv4.txt">IPv4</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT10/url.txt">URL</a>
+      </th>
     </tr>
   </thead>
 </table>
