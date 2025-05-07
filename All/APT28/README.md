@@ -35,6 +35,34 @@
     </tr>
     <tr>
       <td>
+        <a href="https://therecord.media/france-blames-russian-military-intelligence-for-hacks-against-local-orgs">The Record</a>
+      </td>
+      <td>France blames Russian military intelligence for years of cyberattacks on local entities</td>
+      <td>April 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cert.ssi.gouv.fr/uploads/CERTFR-2025-CTI-007.pdf">ANSSI</a>
+      </td>
+      <td>TARGETING AND COMPROMISE OF FRENCH ENTITIES USING THE APT28 INTRUSION SET</td>
+      <td>April 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/evenements/evenements-de-l-annee-2025/article/russie-attribution-de-cyberattaques-contre-la-france-au-service-de">France Diplomatie</a>
+      </td>
+      <td>Russia – Attribution of cyberattacks against France to the Russian military intelligence service (APT28) (April 29, 2025)</td>
+      <td>April 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/">CERT-FR</a>
+      </td>
+      <td>Targeting and compromise of French entities using the APT28 attack modus operandi</td>
+      <td>April 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blog.sekoia.io/double-tap-campaign-russia-nexus-apt-possibly-related-to-apt28-conducts-cyber-espionage-on-central-asia-and-kazakhstan-diplomatic-relations/">Sekoia</a>
       </td>
       <td>Double-Tap Campaign: Russia-nexus APT possibly related to APT28 conducts cyber espionage on Central Asia and Kazakhstan diplomatic relations</td>
@@ -77,6 +105,27 @@
       </td>
       <td>UAC-0063 attacks Ukrainian research institutions: HATVIBE + CHERRYSPY + CVE-2024-23692 (CERT-UA#10356)</td>
       <td>July 21, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://therecord.media/poland-cyber-espionage-russia-gru">The Record</a>
+      </td>
+      <td>Poland says it was targeted by Russian military intelligence hackers</td>
+      <td>May 9, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cert.pl/en/posts/2024/05/apt28-campaign/">CERT.PL</a>
+      </td>
+      <td>APT28 campaign targeting Polish government institutions</td>
+      <td>May 8, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://korrespondent.net/world/russia/4685044-moskva-otreahyrovala-na-otzyv-posla-hermanyy-yz-rossyy">Korrespondent</a>
+      </td>
+      <td>Moscow reacted to the recall of the German ambassador from Russia</td>
+      <td>May 8, 2024</td>
     </tr>
     <tr>
       <td>
