@@ -114,7 +114,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/url.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/url.txt">URL</a>
       </th>
     </tr>
   </thead>
