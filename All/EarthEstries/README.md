@@ -31,6 +31,30 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://censys.com/blog/the-persistent-threat-of-salt-typhoon-tracking-exposures-of-potentially-targeted-devices">Censys</a>
+      </td>
+      <td>The Persistent Threat of Salt Typhoon: Tracking Exposures of Potentially Targeted Devices</td>
+      <td>April 25, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/">BleepingComputer</a>
+      </td>
+      <td>FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches</td>
+      <td>April 25, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.ic3.gov/PSA/2025/PSA250424-2">FBI</a>
+      </td>
+      <td>FBI Seeking Tips about PRC-Targeting of US Telecommunications</td>
+      <td>April 24, 2025</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.greynoise.io/blog/greynoise-observes-active-exploitation-of-cisco-vulnerabilities-tied-to-salt-typhoon-attacks">GreyNoise</a>
       </td>
@@ -85,6 +109,9 @@
       </td>
       <td>Chinese Hackers Strike Again: BeyondTrust & Salt Typhoon Breaches Expose Critical U.S. Infrastructure</td>
       <td>January 7, 2025</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2024</td>
     </tr>
     <tr>
       <td>
@@ -207,6 +234,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.reuters.com/business/media-telecom/suspected-china-linked-hack-us-telecoms-worst-nations-history-senator-says-2024-11-22/">Reuters</a>
+      </td>
+      <td>Suspected China-linked hack on US telecoms worst in nation's history, senator says</td>
+      <td>November 22, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/">Washington Post</a>
       </td>
       <td>Top senator calls Salt Typhoon 'worst telecom hack in our nation's history'</td>
@@ -242,6 +276,20 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.bleepingcomputer.com/news/security/us-says-chinese-hackers-breached-multiple-telecom-providers/">BleepingComputer</a>
+      </td>
+      <td>US says Chinese hackers breached multiple telecom providers</td>
+      <td>October 28, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/">BleepingComputer</a>
+      </td>
+      <td>AT&T, Verizon reportedly hacked to target US govt wiretapping platform</td>
+      <td>October 7, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.cyber.nj.gov/Home/Components/News/News/1472/214">NJCCIC</a>
       </td>
       <td>New Chinese APT, Salt Typhoon, Targets ISPs</td>
@@ -255,11 +303,17 @@
       <td>September 26, 2024</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html">Trend Micro</a>
       </td>
       <td>Earth Estries Targets Government, Tech for Cyberespionage</td>
       <td>August 30, 2023</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2021</td>
     </tr>
     <tr>
       <td>
