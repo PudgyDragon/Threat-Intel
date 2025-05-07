@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>MenuPass Group, Cicada, POTASSIUM, Stone Panda, Red Apollo, CVNX, HOGFISH, BRONZE RIVERSIDE</td>
+    <td>Earth Kasha, MenuPass Group, Cicada, POTASSIUM, Stone Panda, Red Apollo, CVNX, HOGFISH, BRONZE RIVERSIDE</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -31,7 +31,48 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/en_us/research/25/d/earth-kasha-updates-ttps.html">Trend Micro</a>
+      </td>
+      <td>Earth Kasha Updates TTPs in Latest Campaign Targeting Taiwan and Japan</td>
+      <td>April 30, 2025</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_2_7_hara_shoji_higashi_vickie-su_nick-dai_en.pdf">Trend Micro</a>
+      </td>
+      <td>Spot the Difference: An Analysis of the New LODEINFO Campaign by Earth Kasha</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/en_us/research/24/k/return-of-anel-in-the-recent-earth-kasha-spearphishing-campaign.html">Trend Micro</a>
+      </td>
+      <td>Guess Who’s Back - The Return of ANEL in the Recent Earth Kasha Spear-phishing Campaign in 2024</td>
+      <td>November 26, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html">Trend Micro</a>
+      </td>
+      <td>Spot the Difference: Earth Kasha's New LODEINFO Campaign And The Correlation Analysis With The APT10 Umbrella</td>
+      <td>November 19, 2024</td>
+    </tr>
+    <tr>
       <td colspan="100" align="center">2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/">ESET</a>
+      </td>
+      <td>Unmasking MirrorFace: Operation LiberalFace targeting Japanese political entities</td>
+      <td>December 14, 2022</td>
     </tr>
     <tr>
       <td>
@@ -73,6 +114,13 @@
     </tr>
     <tr>
       <td colspan="100" align="center">2018</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blog.trendmicro.co.jp/archives/17280">Trend Micro</a>
+      </td>
+      <td>Targeted Cyber Attack Campaign "ChessMaster" Targeting Japan, Explains Latest Attack Methods Confirmed in April</td>
+      <td></td>
     </tr>
     <tr>
       <td>
