@@ -42,6 +42,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.wired.com/story/brass-typhoon-china-cyberspies/">Wired</a>
+      </td>
+      <td>Brass Typhoon: The Chinese Hacking Group Lurking in the Shadows</td>
+      <td>April 14, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://hunt.io/blog/keyplug-infrastructure-tls-certificates-ghostwolf-activity">Hunt.io</a>
       </td>
       <td>Mapping Suspected KEYPLUG Infrastructure: TLS Certificates, GhostWolf, and RedGolf/APT41 Activity</td>
