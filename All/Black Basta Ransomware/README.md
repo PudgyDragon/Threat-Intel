@@ -33,14 +33,21 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="100" align="center">2025</td>
-    </tr>
-    <tr>
       <td>
         <a href="https://www.ransomware.live/group/blackbasta">Ransomware.live</a>
       </td>
       <td>Ransomware Group: Blackbasta</td>
       <td></td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>    
+    <tr>
+      <td>
+        <a href="https://www.wired.com/story/black-basta-ransomware-gang/">Wired</a>
+      </td>
+      <td>Black Basta: The Fallen Ransomware Gang That Lives On</td>
+      <td>April 14, 2025</td>
     </tr>
     <tr>
       <td>
