@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/">Wired</a>
+      </td>
+      <td>Gamaredon: The Turncoat Spies Relentlessly Hacking Ukraine</td>
+      <td>April 14, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.bleepingcomputer.com/news/security/russian-hackers-attack-western-military-mission-using-malicious-drive/">BleepingComputer</a>
       </td>
       <td>Russian hackers attack Western military mission using malicious drive</td>
