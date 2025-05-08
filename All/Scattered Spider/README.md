@@ -159,6 +159,14 @@
 
 
 <h2>Indicators</h2>
-
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Scattered%20Spider/samples.sha256">SHA256</a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 <h2>Discovery</h2>
