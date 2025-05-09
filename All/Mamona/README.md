@@ -44,6 +44,20 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.wjbf.com/business/press-releases/ein-presswire/810270150/any-run-shares-technical-analysis-of-mamona-a-new-offline-ransomware-strain/">WJBF</a>
+      </td>
+      <td>ANY.RUN Shares Technical Analysis of Mamona, a New Offline Ransomware Strain</td>
+      <td>May 8, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://any.run/cybersecurity-blog/mamona-ransomware-analysis/">ANY.RUN</a>
+      </td>
+      <td>Mamona: Technical Analysis of a New Ransomware Strain</td>
+      <td>May 6, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.scworld.com/news/mamona-ransomware-lowers-the-bar-with-offline-encryption">SC Media</a>
       </td>
       <td>Mamona ransomware lowers the bar with offline encryption</td>
