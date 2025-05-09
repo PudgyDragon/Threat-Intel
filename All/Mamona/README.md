@@ -1,4 +1,4 @@
-<h1>Mamona Ransomware Group</h1>
+<h1>Mamona Ransomware</h1>
 
 <h2>About</h2>
 <table>
