@@ -58,7 +58,7 @@
   <thead>
     <tr>
       <th>
-        <a href=""></a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mamona/samples.sha256">SHA256</a>
       </th>
     </tr>
   </thead>
