@@ -108,7 +108,16 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/samples.md5">MD5</a>
       </th>
       <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/samples.sha1">SHA1</a>
+      </th>
+      <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/samples.tlsh">TLSH</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/samples.ssdeep">SSDEEP</a>
       </th>
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DragonForce/IPv4.txt">IPv4</a>
