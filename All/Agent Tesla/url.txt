@@ -31,3 +31,8 @@ http://176.65.144.23/HOST/CZXZDDS22.exe
 http://134.209.67.242/xp/oric.exe
 http://134.209.67.242/xp/audio.bat
 http://176.65.144.23/HOST/FJHFFRR.exe
+
+http://176.65.144.23/brain/baggie.txt
+mail.eanlabel.com
+https://www.mediafire.com/file/ixhc168nkhzdi5q/Fatura+No+038462.tgz/file
+https://api.telegram.org/bot7671302806:AAGMIaSyEX23eVuRP_7fYeiVJprDcDI1cNs/sendDocument
