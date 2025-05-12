@@ -106,6 +106,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.scworld.com/news/kimsuky-shifts-tactics-from-traditional-backdoors-to-rdp-proxies">SC Media</a>
+      </td>
+      <td>Kimsuky shifts tactics from traditional backdoors to RDP, proxies</td>
+      <td>February 6, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://asec.ahnlab.com/en/86098/">ASEC</a>
       </td>
       <td>Persistent Threats from the Kimsuky Group Using RDP Wrapper</td>
@@ -120,6 +127,13 @@
       </td>
       <td>North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks</td>
       <td>December 3, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/brief/diehl-defence-reportedly-attacked-by-kimsuky-apt">SC Media</a>
+      </td>
+      <td>Diehl Defence reportedly attacked by Kimsuky APT</td>
+      <td>October 1, 2024</td>
     </tr>
     <tr>
       <td>
@@ -141,6 +155,27 @@
       </td>
       <td>NSA, FBI Alert on N. Korean Hackers Spoofing Emails from Trusted Sources</td>
       <td>May 3, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/news/fbi-warns-of-email-spoofing-by-north-korean-threat-actor-kimsuky">SC Media</a>
+      </td>
+      <td>FBI warns of email spoofing by North Korean threat actor Kimsuky</td>
+      <td>May 3, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.broadcom.com/support/security-center/protection-bulletin/apt43-exploits-dropbox-in-tutorialrat-distribution-campaign">Broadcom</a>
+      </td>
+      <td>APT43 exploits Dropbox in TutorialRAT distribution campaign</td>
+      <td>April 24, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/news/microsoft-openai-reveal-chatgpt-use-by-state-sponsored-hackers">SC Media</a>
+      </td>
+      <td>Microsoft, OpenAI reveal ChatGPT use by state-sponsored hackers</td>
+      <td>February 14, 2024</td>
     </tr>
     <tr>
       <td colspan="100" align="center">2023</td>
