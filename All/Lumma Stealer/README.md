@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://news.sophos.com/en-us/2025/05/09/lumma-stealer-coming-and-going/">Sophos</a>
+      </td>
+      <td>Lumma Stealer, coming and going</td>
+      <td>May 9, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.trellix.com/blogs/research/a-deep-dive-into-the-latest-version-of-lumma-infostealer/">Trellix</a>
       </td>
       <td>Unmasking the Evolving Threat: A Deep Dive into the Latest Version of Lumma InfoStealer with Code Flow Obfuscation</td>
@@ -105,6 +112,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.netskope.com/blog/lumma-stealer-fake-captchas-new-techniques-to-evade-detection">Netskope</a>
+      </td>
+      <td>Lumma Stealer: Fake CAPTCHAs & New Techniques to Evade Detection</td>
+      <td>January 23, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.cybereason.com/blog/threat-analysis-rise-of-lummastealer">Cybereason</a>
       </td>
       <td>Your Data Is Under New Lummanagement: The Rise of LummaStealer</td>
@@ -119,6 +133,13 @@
       </td>
       <td>Lumma Stealer on the Rise: How Telegram Channels Are Fueling Malware Proliferation</td>
       <td>November 20, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/10/20/unmasking-lumma-stealer-analyzing-deceptive-tactics-with-fake-captcha">Qualys</a>
+      </td>
+      <td>Unmasking Lumma Stealer: Analyzing Deceptive Tactics with Fake CAPTCHA</td>
+      <td>October 20, 2024</td>
     </tr>
     <tr>
       <td>
