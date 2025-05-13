@@ -299,7 +299,7 @@
         <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Gamaredon%20Group/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Gamaredon%20Group/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Gamaredon%20Group/url.txt">URL</a>
       </th>
     </tr>
   </thead>
