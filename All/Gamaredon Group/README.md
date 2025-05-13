@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/">HarfangLab</a>
+      </td>
+      <td>Inside Gamaredon’s PteroLNK: Dead Drop Resolvers and evasive Infrastructure</td>
+      <td>April 16, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/">Wired</a>
       </td>
       <td>Gamaredon: The Turncoat Spies Relentlessly Hacking Ukraine</td>
