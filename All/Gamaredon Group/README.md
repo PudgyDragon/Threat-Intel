@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>Trident Ursa, RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard</td>
+    <td>Trident Ursa, RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard, UAC-0010</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -70,6 +70,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://hunt.io/blog/state-sponsored-activity-gamaredon-shadowpad">Hunt.io</a>
+      </td>
+      <td>State-Sponsored Tactics: How Gamaredon and ShadowPad Operate and Rotate Their Infrastructure</td>
+      <td>April 8, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-093a">CISA</a>
       </td>
       <td>Fast Flux: A National Security Threat</td>
@@ -114,7 +121,21 @@
       <td>November 13, 2024</td>
     </tr>
     <tr>
+      <td>
+        <a href="https://web-assets.esetstatic.com/wls/en/papers/white-papers/cyberespionage-gamaredon-way.pdf">ESET</a>
+      </td>
+      <td>Cyberespionage the Gamaredon way: Analysis of toolset used to spy on Ukraine in 2022 and 2023</td>
+      <td>September 26, 2024</td>
+    </tr>
+    <tr>
       <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://therecord.media/gamaredon-hackers-target-ukraine-military-counteroffensive">The Record</a>
+      </td>
+      <td>Gamaredon hackers target Ukrainian military orgs amid counteroffensive efforts</td>
+      <td>August 31, 2023</td>
     </tr>
     <tr>
       <td>
@@ -125,10 +146,38 @@
     </tr>
     <tr>
       <td>
+        <a href="https://therecord.media/armageddon-gamaredon-russian-hacking-group-increasingly-targeting-ukraine-government">The Record</a>
+      </td>
+      <td>Russian hacking group Armageddon increasingly targets Ukrainian state services</td>
+      <td>July 16, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cert.gov.ua/article/5160737">CERT-EU</a>
+      </td>
+      <td>Summary of the activities of the UAC-0010 group as of July 2023</td>
+      <td>July 13, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.logpoint.com/en/blog/russia-v-ukraine-round-two-gamma-edition/">LogPoint</a>
       </td>
       <td>Russia V Ukraine: Round two – Gamma Edition</td>
       <td>February 23, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://therecord.media/russia-backed-hacker-group-gamaredon-attacking-ukraine-with-info-stealing-malware">The Record</a>
+      </td>
+      <td>Russia-backed hacker group Gamaredon attacking Ukraine with info-stealing malware</td>
+      <td>February 1, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://scpc.gov.ua/api/docs/19b0a96e-8c31-44bf-863e-cd3e0b651f22/19b0a96e-8c31-44bf-863e-cd3e0b651f22.pdf">SCPC</a>
+      </td>
+      <td>ANOTHER UAC-0010 STORY</td>
+      <td>January, 2023</td>
     </tr>
     <tr>
       <td colspan="100" align="center">2022</td>
@@ -156,10 +205,24 @@
     </tr>
     <tr>
       <td>
+        <a href="https://cert.gov.ua/article/971405">CERT-UA</a>
+      </td>
+      <td>Cyberattacks of the UAC-0010 group (Armageddon) using the GammaLoad.PS1_v2 malware (CERT-UA#5003,5013,5069,5071)</td>
+      <td>July 26, 2022</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.elastic.co/security-labs/playing-defense-against-gamaredon-group">elastic</a>
       </td>
       <td>Playing defense against Gamaredon Group</td>
       <td>June 20, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blogs.cisco.com/security/network-footprints-of-gamaredon-group">Cisco</a>
+      </td>
+      <td>Network Footprints of Gamaredon Group</td>
+      <td>May 12, 2022</td>
     </tr>
     <tr>
       <td>
