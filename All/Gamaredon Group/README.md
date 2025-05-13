@@ -306,3 +306,12 @@
 </table>
 
 <h2>Discovery</h2>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Gamaredon%20Group/rules.yara">YARA</a>
+      </th>
+    </tr>
+  </thead>
+</table>
