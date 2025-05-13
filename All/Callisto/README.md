@@ -12,11 +12,11 @@
   </tr>
   <tr>
     <td>Associated Malware</td>
-    <td></td>
+    <td>LOSTKEYS</td>
   </tr>
   <tr>
     <td>Suspected Attribution</td>
-    <td></td>
+    <td>Russia</td>
   </tr>
 </table>
 
@@ -97,7 +97,13 @@
   <thead>
     <tr>
       <th>
-        <a href=""></a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Callisto/samples.md5">MD5</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Callisto/IPv4.txt">IPv4</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Callisto/url.txt">URL</a>
       </th>
     </tr>
   </thead>
@@ -105,3 +111,12 @@
 
 
 <h2>Discovery</h2>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Callisto/rules.yara">YARA</a>
+      </th>
+    </tr>
+  </thead>
+</table>
