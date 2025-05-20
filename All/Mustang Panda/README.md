@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>TA416, RedDelta, Stately Taurus, Bronze President, Luminous Moth, Earth Preta, Camaro Dragon</td>
+    <td>TA416, RedDelta, Stately Taurus, Bronze President, Luminous Moth, Earth Preta, Camaro Dragon, Hive0154, Twill Typhoon, Polaris</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -32,6 +32,13 @@
   <tbody>
     <tr>
       <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.ibm.com/think/x-force/hive0154-targeting-us-philippines-pakistan-taiwan">IBM X-Force</a>
+      </td>
+      <td>Hive0154 targeting US, Philippines, Pakistan and Taiwan in suspected espionage campaign</td>
+      <td>May 15, 2025</td>
     </tr>
     <tr>
       <td>
