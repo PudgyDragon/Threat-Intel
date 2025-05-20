@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>Fighting Ursa, RON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, Forest Blizzard, FROZENLAKE, GruesomeLarch, TAG-110</td>
+    <td>Fighting Ursa, RON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, Forest Blizzard, FROZENLAKE, GruesomeLarch, TAG-110, BlueDelta</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -32,6 +32,27 @@
   <tbody>
     <tr>
       <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.securityweek.com/russian-apt-exploiting-mail-servers-against-government-defense-organizations/">SecurityWeek</a>
+      </td>
+      <td>Russian APT Exploiting Mail Servers Against Government, Defense Organizations</td>
+      <td>May 16, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.welivesecurity.com/en/eset-research/operation-roundpress/">ESET</a>
+      </td>
+      <td>Operation RoundPress</td>
+      <td>May 15, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/">SecurityWeek</a>
+      </td>
+      <td>France Blames Russia for Cyberattacks on Dozen Entities</td>
+      <td>April 30, 2025</td>
     </tr>
     <tr>
       <td>
@@ -63,6 +84,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.securityweek.com/nine-threat-groups-active-in-ot-operations-in-2024-dragos/">SecurityWeek</a>
+      </td>
+      <td>Nine Threat Groups Active in OT Operations in 2024: Dragos</td>
+      <td>February 25, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blog.sekoia.io/double-tap-campaign-russia-nexus-apt-possibly-related-to-apt28-conducts-cyber-espionage-on-central-asia-and-kazakhstan-diplomatic-relations/">Sekoia</a>
       </td>
       <td>Double-Tap Campaign: Russia-nexus APT possibly related to APT28 conducts cyber espionage on Central Asia and Kazakhstan diplomatic relations</td>
@@ -80,6 +108,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.securityweek.com/russian-cyberespionage-group-hit-60-victims-in-asia-europe/">SecurityWeek</a>
+      </td>
+      <td>Russian Cyberespionage Group Hit 60 Victims in Asia, Europe</td>
+      <td>November 22, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://go.recordedfuture.com/hubfs/reports/CTA-RU-2024-1121.pdf">Recorded Future</a>
       </td>
       <td>Russia-Aligned TAG-110 Targets Asia and Europe with HATVIBE and CHERRYSPY (Cyber Threat Analysis)</td>
@@ -87,7 +122,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-asia-and-europe">Recorded Future</a>
+        <a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-asia-and-europe">Insikt Group</a>
       </td>
       <td>Russia-Aligned TAG-110 Targets Asia and Europe with HATVIBE and CHERRYSPY</td>
       <td>November 21, 2024</td>
@@ -181,6 +216,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://cert.gov.ua/article/4905829">CERT-UA</a>
+      </td>
+      <td>APT28 used three exploits for Roundcube (CVE-2020-35730, CVE-2021-44026, CVE-2020-12641) during another espionage campaign (CERT-UA#6805)</td>
+      <td>June 20, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://cert.gov.ua/article/4697016">CERT-UA</a>
       </td>
       <td>Espionage activity of UAC-0063 against Ukraine, Kazakhstan, Kyrgyzstan, Mongolia, Israel, India (CERT-UA#6549)</td>
@@ -270,6 +312,13 @@
     </tr>
     <tr>
       <td colspan="100" align="center">2016</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://web-assets.esetstatic.com/wls/2016/10/eset-sednit-part1.pdf">ESET</a>
+      </td>
+      <td>En Route with Sednit - Part 1: Approaching the Target</td>
+      <td>October, 2016</td>
     </tr>
     <tr>
       <td>
