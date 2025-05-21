@@ -152,7 +152,16 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.md5">MD5</a>
       </th>
       <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.sha1">SHA1</a>
+      </th>
+      <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.tlsh">TLSH</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/samples.ssdeep">SSDEEP</a>
       </th>
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Mustang%20Panda/IPv4.txt">IPv4</a>
