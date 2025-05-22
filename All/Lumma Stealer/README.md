@@ -35,6 +35,48 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation">DoJ</a>
+      </td>
+      <td>Justice Department Seizes Domains Behind Major Information-Stealing Malware Operation</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b">CISA</a>
+      </td>
+      <td>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware">CISA</a>
+      </td>
+      <td>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/">Microsoft</a>
+      </td>
+      <td>Disrupting Lumma Stealer: Microsoft leads global action against favored cybercrime tool</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/">Microsoft Security</a>
+      </td>
+      <td>Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.europol.europa.eu/media-press/newsroom/news/europol-and-microsoft-disrupt-world%E2%80%99s-largest-infostealer-lumma">Europol</a>
+      </td>
+      <td>Europol and Microsoft disrupt world’s largest infostealer Lumma</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://news.sophos.com/en-us/2025/05/09/lumma-stealer-coming-and-going/">Sophos</a>
       </td>
       <td>Lumma Stealer, coming and going</td>
