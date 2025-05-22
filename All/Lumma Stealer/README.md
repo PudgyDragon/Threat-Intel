@@ -253,6 +253,9 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lumma%20Stealer/samples.sha256">SHA256</a>
       </th>
       <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lumma%20Stealer/samples.tlsh">TLSH</a>
+      </th>
+      <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Lumma%20Stealer/IPv4.txt">IPv4</a>
       </th>
       <th>
