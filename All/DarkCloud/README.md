@@ -114,6 +114,9 @@
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DarkCloud/url.txt">URL</a>
       </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/DarkCloud/emails.txt">Emails</a>
+      </th>
     </tr>
   </thead>
 </table>
