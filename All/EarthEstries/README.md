@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://cyberscoop.com/salt-typhoon-chinese-hackers-us-telecom-breach/">CyberScoop</a>
+      </td>
+      <td>A house full of open windows: Why telecoms may never purge their networks of Salt Typhoon</td>
+      <td>May 21, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://censys.com/blog/the-persistent-threat-of-salt-typhoon-tracking-exposures-of-potentially-targeted-devices">Censys</a>
       </td>
       <td>The Persistent Threat of Salt Typhoon: Tracking Exposures of Potentially Targeted Devices</td>
