@@ -1,1 +1,3 @@
 http://107.173.47.132/web/wps.js
+
+http://209.54.101.170/scan/fi.js
