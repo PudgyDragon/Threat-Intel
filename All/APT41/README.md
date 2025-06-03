@@ -108,7 +108,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/IPv4.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/APT41/url.txt">URL</a>
       </th>      
     </tr>
   </thead>
