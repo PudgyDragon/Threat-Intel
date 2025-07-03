@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://any.run/cybersecurity-blog/devman-ransomware-analysis/">ANY.RUN</a>
+      </td>
+      <td>DEVMAN Ransomware: Analysis of New DragonForce Variant </td>
+      <td>July 1, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.sentinelone.com/blog/dragonforce-ransomware-gang-from-hacktivists-to-high-street-extortionists/">SentinelOne</a>
       </td>
       <td>DragonForce Ransomware Gang | From Hacktivists to High Street Extortionists</td>
