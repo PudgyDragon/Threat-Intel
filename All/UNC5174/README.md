@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/">CERT-FR</a>
+      </td>
+      <td>Houken seeking a path by living on the edge with zero-days</td>
+      <td>July 1, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://sysdig.com/blog/unc5174-chinese-threat-actor-vshell/">sysdig</a>
       </td>
       <td>UNC5174’s evolution in China’s ongoing cyber warfare: From SNOWLIGHT to VShell</td>
