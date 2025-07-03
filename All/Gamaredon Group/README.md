@@ -35,6 +35,20 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.welivesecurity.com/en/eset-research/gamaredon-2024-cranking-out-spearphishing-campaigns-ukraine-evolved-toolset/">ESET</a>
+      </td>
+      <td>Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset</td>
+      <td>July 2, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://web-assets.esetstatic.com/wls/en/papers/white-papers/gamaredon-in-2024.pdf">ESET</a>
+      </td>
+      <td>Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset - White Paper</td>
+      <td>July 2, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/">HarfangLab</a>
       </td>
       <td>Inside Gamaredon’s PteroLNK: Dead Drop Resolvers and evasive Infrastructure</td>
@@ -274,6 +288,13 @@
         <a href="https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/">BleepingComputer</a>
       </td>
       <td>Ukraine links members of Gamaredon hacker group to Russian FSB</td>
+      <td>November 4, 2021</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy">Security Service of Ukraine</a>
+      </td>
+      <td>SSU identifies FSB hackers responsible for over 5,000 cyber attacks against Ukraine (video)</td>
       <td>November 4, 2021</td>
     </tr>
     <tr>
