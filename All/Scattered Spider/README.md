@@ -35,10 +35,45 @@
     </tr>
     <tr>
       <td>
+        <a href="https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html">The Hacker News</a>
+      </td>
+      <td>Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure</td>
+      <td>July 30, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.ic3.gov/CSA/2025/250729.pdf">IC3</a>
       </td>
       <td>Joint Cybersecurity Advisory: Scattered Spider</td>
       <td>July 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html">The Hacker News</a>
+      </td>
+      <td>Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure</td>
+      <td>July 28, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944/">Mandiant</a>
+      </td>
+      <td>From Help Desk to Hypervisor: Defending Your VMware vSphere Estate from UNC3944</td>
+      <td>July 23, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.splunk.com/en_us/blog/learn/scattered-spider.html">Splunk</a>
+      </td>
+      <td>Scattered Spider Isn’t a Glitch, It’s a Warning</td>
+      <td>July 18, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html">The Hacker News</a>
+      </td>
+      <td>Four Arrested in £440M Cyber Attack on Marks & Spencer, Co-op, and Harrods</td>
+      <td>July 10, 2025</td>
     </tr>
     <tr>
       <td>
