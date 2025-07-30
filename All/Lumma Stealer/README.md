@@ -1,4 +1,6 @@
-<h2>Lumma Stealer</h2>
+<h1>Lumma Stealer</h1>
+
+<h2>About</h2>
 <table>
   <tr>
     <td>Platform</td>
@@ -32,6 +34,13 @@
   <tbody>
     <tr>
       <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/en_us/research/25/g/lumma-stealer-returns.html">Trend Micro</a>
+      </td>
+      <td>Back to Business: Lumma Stealer Returns with Stealthier Methods</td>
+      <td>July 22, 2025</td>
     </tr>
     <tr>
       <td>
