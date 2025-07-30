@@ -35,6 +35,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.ic3.gov/CSA/2025/250729.pdf">IC3</a>
+      </td>
+      <td>Joint Cybersecurity Advisory: Scattered Spider</td>
+      <td>July 29, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations/">Mandiant</a>
       </td>
       <td>Defending Against UNC3944: Cybercrime Hardening Guidance from the Frontlines</td>
